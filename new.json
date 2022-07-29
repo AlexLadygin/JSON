@@ -1,4 +1,9 @@
-1)Ladygin Aleksandr Olegovich
-2)Pets=0
-3)future salary=150 000 rubles
+{
+ "firstName": "Aleksandr",
+ "patronymic": "Olegovich",
+ "lastName": "Ladygin",
+ "age": 24,
+ "pets": 0,
+ "future salary" : 3000$
+}
 
